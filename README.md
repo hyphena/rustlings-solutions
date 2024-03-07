@@ -1,8 +1,8 @@
 <h1 align="center">
   <img src="https://github.com/alstn2468/rustlings-solution/raw/main/logo.png" alt="rust" width="200">
-    <div>Solutions for Rustlings 5.6.1</div>
+    <div>Solutions for Rustlings</div>
 </h1>
-<div align="center">Yeah, yeah it's a work in progress. Formatting tables is a pain in the caboose.</div>
+<div align="center">Formatting tables is a pain in the caboose.</div>
 <br>
 <div align="center">
   
@@ -22,4 +22,5 @@
 | Hashmaps                 | 0 / 3       | [:link:](https://github.com/hyphena/rustlings/)                                                    |      | Total                    | 0 / 96    | [:link:](https://github.com/hyphena/rustlings/)              |
 | Options                  | 0 / 3       | [:link:](https://github.com/hyphena/rustlings/)
 
+<sub><sup>thank you <a href="https://github.com/alstn2468/rustlings-solution/tree/main">minsu kim</a>, for the original design inspo</sub></sub>
 </div>
